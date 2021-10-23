@@ -1,0 +1,1 @@
+/home/yohei/rl_ws/devel/.private/bwi_virtour/share/common-lisp/ros/bwi_virtour/srv/bwi_virtour-srv.asd

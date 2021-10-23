@@ -1,0 +1,8 @@
+prefix=/home/yohei/rl_ws/install
+
+Name: plan_execution
+Description: Description of plan_execution
+Version: 0.0.0
+Cflags: -I/home/yohei/rl_ws/install/include
+Libs: -L/home/yohei/rl_ws/install/lib -lactasp -lplan_execution
+Requires: actionlib_msgs bwi_msgs message_runtime roscpp std_msgs std_srvs bwi_msgs

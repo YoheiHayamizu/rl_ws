@@ -1,0 +1,8 @@
+prefix=/home/yohei/rl_ws/devel/.private/multi_level_map_msgs
+
+Name: multi_level_map_msgs
+Description: Description of multi_level_map_msgs
+Version: 0.3.12
+Cflags: -I/home/yohei/rl_ws/devel/.private/multi_level_map_msgs/include
+Libs: -L/home/yohei/rl_ws/devel/.private/multi_level_map_msgs/lib 
+Requires: message_runtime nav_msgs geometry_msgs

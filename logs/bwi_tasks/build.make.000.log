@@ -1,0 +1,202 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target bwi_planning_common_generate_messages_py
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  0%] Built target bwi_planning_common_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_lisp[0m
+[  0%] Built target bwi_msgs_generate_messages_nodejs
+[  0%] Built target bwi_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_eus[0m
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target bwi_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  0%] Built target bwi_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target plan_execution_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target plan_execution_generate_messages_cpp[0m
+[  0%] Built target plan_execution_generate_messages_nodejs
+[  0%] Built target plan_execution_generate_messages_cpp
+[35m[1mScanning dependencies of target plan_execution_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target plan_execution_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[35m[1mScanning dependencies of target plan_execution_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target plan_execution_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  0%] Built target bwi_planning_common_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target plan_execution_generate_messages_eus[0m
+[  0%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target plan_execution_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target bwi_msgs_generate_messages_py
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target bwi_planning_common_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target bwi_planning_common_generate_messages_eus
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[  0%] Built target _catkin_empty_exported_target
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  0%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  0%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  0%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  0%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target meeting_experiment[0m
+[35m[1mScanning dependencies of target learning_tasks_node[0m
+[  3%] [32mBuilding CXX object CMakeFiles/learning_tasks_node.dir/src/learning_tasks.cpp.o[0m
+[  6%] [32mBuilding CXX object CMakeFiles/meeting_experiment.dir/src/meeting_experiment.cpp.o[0m
+[ 10%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_tasks/lib/bwi_tasks/meeting_experiment[0m
+[ 13%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_tasks/lib/bwi_tasks/learning_tasks_node[0m
+[ 13%] Built target meeting_experiment
+[35m[1mScanning dependencies of target message_delivery[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/message_delivery.dir/src/message_delivery.cpp.o[0m
+[ 16%] Built target learning_tasks_node
+[35m[1mScanning dependencies of target filtering_tasks[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/filtering_tasks.dir/src/test_filter_task.cpp.o[0m
+[ 23%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_tasks/lib/bwi_tasks/message_delivery[0m
+[ 26%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_tasks/lib/bwi_tasks/filtering_tasks[0m
+[ 26%] Built target message_delivery
+[35m[1mScanning dependencies of target simulator_learning_tasks_node[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/simulator_learning_tasks_node.dir/src/simulator_learning_tasks.cpp.o[0m
+[ 30%] Built target filtering_tasks
+[35m[1mScanning dependencies of target hri_tasks_node[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/hri_tasks_node.dir/src/hri_tasks.cpp.o[0m
+[ 36%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_tasks/lib/bwi_tasks/simulator_learning_tasks_node[0m
+[ 36%] Built target simulator_learning_tasks_node
+[35m[1mScanning dependencies of target go_to_location_node[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/go_to_location_node.dir/src/go_to_location.cpp.o[0m
+[ 43%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_tasks/lib/bwi_tasks/hri_tasks_node[0m
+[ 43%] Built target hri_tasks_node
+[35m[1mScanning dependencies of target back_and_forth_node[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/back_and_forth_node.dir/src/back_and_forth.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_tasks/lib/bwi_tasks/go_to_location_node[0m
+[ 50%] Built target go_to_location_node
+[35m[1mScanning dependencies of target go_to_door_node[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/go_to_door_node.dir/src/go_to_door.cpp.o[0m
+[ 56%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_tasks/lib/bwi_tasks/back_and_forth_node[0m
+[ 56%] Built target back_and_forth_node
+[35m[1mScanning dependencies of target go_to_object_node[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/go_to_object_node.dir/src/go_to_object.cpp.o[0m
+[ 63%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_tasks/lib/bwi_tasks/go_to_door_node[0m
+[ 63%] Built target go_to_door_node
+[35m[1mScanning dependencies of target look_for_person_node[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/look_for_person_node.dir/src/look_for_person.cpp.o[0m
+[ 70%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_tasks/lib/bwi_tasks/go_to_object_node[0m
+[ 70%] Built target go_to_object_node
+[35m[1mScanning dependencies of target visit_door_list[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/visit_door_list.dir/src/visit_door_list.cpp.o[0m
+[ 76%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_tasks/lib/bwi_tasks/look_for_person_node[0m
+[ 76%] Built target look_for_person_node
+[35m[1mScanning dependencies of target visit_door_list_gui[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/visit_door_list_gui.dir/src/visit_door_list_gui.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_tasks/lib/bwi_tasks/visit_door_list[0m
+[ 83%] Built target visit_door_list
+[35m[1mScanning dependencies of target visit_and_ask_list_node[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/visit_and_ask_list_node.dir/src/visit_and_ask_list.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_tasks/lib/bwi_tasks/visit_door_list_gui[0m
+[ 90%] Built target visit_door_list_gui
+[35m[1mScanning dependencies of target between_doors[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/between_doors.dir/src/between_doors.cpp.o[0m
+[ 96%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_tasks/lib/bwi_tasks/visit_and_ask_list_node[0m
+[ 96%] Built target visit_and_ask_list_node
+[100%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_tasks/lib/bwi_tasks/between_doors[0m
+[100%] Built target between_doors

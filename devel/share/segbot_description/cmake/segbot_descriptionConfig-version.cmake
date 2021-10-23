@@ -1,0 +1,1 @@
+/home/yohei/rl_ws/devel/.private/segbot_description/share/segbot_description/cmake/segbot_descriptionConfig-version.cmake

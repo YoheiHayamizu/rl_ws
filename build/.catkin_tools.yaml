@@ -1,0 +1,6 @@
+devel_space: /home/yohei/rl_ws/devel
+install: false
+install_space: /home/yohei/rl_ws/install
+profile: default
+source_space: /home/yohei/rl_ws/src
+workspace: /home/yohei/rl_ws

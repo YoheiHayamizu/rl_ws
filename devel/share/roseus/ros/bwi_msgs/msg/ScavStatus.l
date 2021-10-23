@@ -1,0 +1,1 @@
+/home/yohei/rl_ws/devel/.private/bwi_msgs/share/roseus/ros/bwi_msgs/msg/ScavStatus.l

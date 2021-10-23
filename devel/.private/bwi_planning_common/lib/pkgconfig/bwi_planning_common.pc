@@ -1,0 +1,8 @@
+prefix=/home/yohei/rl_ws/devel/.private/bwi_planning_common
+
+Name: bwi_planning_common
+Description: Description of bwi_planning_common
+Version: 0.3.12
+Cflags: -I/home/yohei/rl_ws/devel/.private/bwi_planning_common/include -I/home/yohei/rl_ws/src/bwi_common/bwi_planning_common/include -I/usr/include
+Libs: -L/home/yohei/rl_ws/devel/.private/bwi_planning_common/lib -lbwi_planning_common /usr/lib/x86_64-linux-gnu/libboost_filesystem.so /usr/lib/x86_64-linux-gnu/libboost_system.so
+Requires: bwi_mapper bwi_tools message_runtime std_msgs

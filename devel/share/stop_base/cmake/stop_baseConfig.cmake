@@ -1,0 +1,1 @@
+/home/yohei/rl_ws/devel/.private/stop_base/share/stop_base/cmake/stop_baseConfig.cmake

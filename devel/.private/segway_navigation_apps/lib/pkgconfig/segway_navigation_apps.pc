@@ -1,0 +1,8 @@
+prefix=/home/yohei/rl_ws/devel/.private/segway_navigation_apps
+
+Name: segway_navigation_apps
+Description: Description of segway_navigation_apps
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/yohei/rl_ws/devel/.private/segway_navigation_apps/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/yohei/rl_ws/devel/.private/bwi_perception/share/common-lisp/ros/bwi_perception/srv/bwi_perception-srv.asd

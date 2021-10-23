@@ -1,0 +1,1 @@
+/home/yohei/rl_ws/devel/.private/bwi_moveit_utils/share/gennodejs/ros/bwi_moveit_utils/srv/MoveitCartesianPose.js

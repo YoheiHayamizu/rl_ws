@@ -1,0 +1,4 @@
+Symlinking /home/yohei/rl_ws/devel/share/segway_v3_config/cmake/segway_v3_configConfig.cmake
+Symlinking /home/yohei/rl_ws/devel/share/segway_v3_config/cmake/segway_v3_configConfig-version.cmake
+Symlinking /home/yohei/rl_ws/devel/etc/catkin/profile.d/50.segway_config.bash
+Symlinking /home/yohei/rl_ws/devel/lib/pkgconfig/segway_v3_config.pc

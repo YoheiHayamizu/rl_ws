@@ -1,0 +1,4 @@
+Symlinking /home/yohei/rl_ws/devel/share/stop_base/cmake/stop_baseConfig-version.cmake
+Symlinking /home/yohei/rl_ws/devel/share/stop_base/cmake/stop_baseConfig.cmake
+Symlinking /home/yohei/rl_ws/devel/lib/python2.7/dist-packages/stop_base/__init__.py
+Symlinking /home/yohei/rl_ws/devel/lib/pkgconfig/stop_base.pc

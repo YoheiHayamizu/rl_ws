@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yohei/rl_ws/devel/.private/bwi_planning_common/setup.sh

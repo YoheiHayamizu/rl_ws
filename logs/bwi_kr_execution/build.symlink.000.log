@@ -1,0 +1,10 @@
+Symlinking /home/yohei/rl_ws/devel/share/bwi_kr_execution/cmake/bwi_kr_executionConfig.cmake
+Symlinking /home/yohei/rl_ws/devel/share/bwi_kr_execution/cmake/bwi_kr_executionConfig-version.cmake
+Symlinking /home/yohei/rl_ws/devel/lib/libbwikractions.so
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_kr_execution/asp_formatter
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_kr_execution/single_plan_executor_node
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_kr_execution/state_tracker
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_kr_execution/any_plan_executor_node
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_kr_execution/learning_executor_node
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_kr_execution/knowledge_reasoning_node
+Symlinking /home/yohei/rl_ws/devel/lib/pkgconfig/bwi_kr_execution.pc

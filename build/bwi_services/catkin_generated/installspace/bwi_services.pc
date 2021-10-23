@@ -1,0 +1,8 @@
+prefix=/home/yohei/rl_ws/install
+
+Name: bwi_services
+Description: Description of bwi_services
+Version: 0.3.12
+Cflags: -I/home/yohei/rl_ws/install/include
+Libs: -L/home/yohei/rl_ws/install/lib 
+Requires: actionlib plan_execution message_runtime roscpp std_msgs

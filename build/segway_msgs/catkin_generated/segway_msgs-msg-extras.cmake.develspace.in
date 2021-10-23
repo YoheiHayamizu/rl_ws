@@ -1,0 +1,2 @@
+set(segway_msgs_MESSAGE_FILES "/home/yohei/rl_ws/src/segway_v3/segway_msgs/msg/AuxPower.msg;/home/yohei/rl_ws/src/segway_v3/segway_msgs/msg/ConfigCmd.msg;/home/yohei/rl_ws/src/segway_v3/segway_msgs/msg/Configuration.msg;/home/yohei/rl_ws/src/segway_v3/segway_msgs/msg/Dynamics.msg;/home/yohei/rl_ws/src/segway_v3/segway_msgs/msg/Faultlog.msg;/home/yohei/rl_ws/src/segway_v3/segway_msgs/msg/Propulsion.msg;/home/yohei/rl_ws/src/segway_v3/segway_msgs/msg/Status.msg;/home/yohei/rl_ws/src/segway_v3/segway_msgs/msg/SuperAux.msg")
+set(segway_msgs_SERVICE_FILES "")

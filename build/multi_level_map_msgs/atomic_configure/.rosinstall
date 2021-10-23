@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yohei/rl_ws/devel/.private/multi_level_map_msgs/setup.sh

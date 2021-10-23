@@ -1,0 +1,1 @@
+/home/yohei/rl_ws/devel/.private/astra_camera/share/gennodejs/ros/astra_camera/srv/GetCameraInfo.js

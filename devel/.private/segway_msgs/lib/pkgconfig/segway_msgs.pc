@@ -1,0 +1,8 @@
+prefix=/home/yohei/rl_ws/devel/.private/segway_msgs
+
+Name: segway_msgs
+Description: Description of segway_msgs
+Version: 0.0.1
+Cflags: -I/home/yohei/rl_ws/devel/.private/segway_msgs/include
+Libs: -L/home/yohei/rl_ws/devel/.private/segway_msgs/lib 
+Requires: message_runtime std_msgs

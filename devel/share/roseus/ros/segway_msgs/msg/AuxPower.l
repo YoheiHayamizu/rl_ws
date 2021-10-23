@@ -1,0 +1,1 @@
+/home/yohei/rl_ws/devel/.private/segway_msgs/share/roseus/ros/segway_msgs/msg/AuxPower.l

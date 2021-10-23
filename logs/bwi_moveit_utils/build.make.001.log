@@ -1,0 +1,145 @@
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target _bwi_moveit_utils_generate_messages_check_deps_MoveitWaypoint
+[  0%] Built target _bwi_moveit_utils_generate_messages_check_deps_MoveitCartesianPose
+[  0%] Built target _bwi_moveit_utils_generate_messages_check_deps_MoveitJointPose
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target moveit_msgs_generate_messages_cpp
+[  0%] Built target moveit_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target moveit_msgs_generate_messages_py
+[  0%] Built target moveit_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target moveit_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[ 13%] Built target bwi_moveit_utils_generate_messages_cpp
+[ 26%] Built target bwi_moveit_utils_generate_messages_nodejs
+[ 43%] Built target bwi_moveit_utils_generate_messages_py
+[ 56%] Built target bwi_moveit_utils_generate_messages_lisp
+[ 73%] Built target bwi_moveit_utils_generate_messages_eus
+[ 73%] Built target bwi_moveit_utils_gencpp
+[ 73%] Built target bwi_moveit_utils_generate_messages
+[35m[1mScanning dependencies of target moveit_waypoint_service[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/moveit_waypoint_service.dir/src/moveit_waypoint_service.cpp.o[0m
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:276:0[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:4[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/joint_model.h:47[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/joint_model_group.h:41[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/robot_model.h:47[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_state/robot_state.h:41[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/planning_scene_interface/planning_scene_interface.h:41[m[K,
+                 from [01m[K/home/yohei/rl_ws/src/bwi_common/bwi_moveit_utils/src/moveit_waypoint_service.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Functors.h:973:28:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class _Operation> class std::binder2nd[m[K’ is deprecated [-Wdeprecated-declarations]
+ struct functor_traits<std::binder2nd<T> >
+[01;32m[K                            ^[m[K
+In file included from [01m[K/usr/include/c++/5/bits/stl_function.h:1128:0[m[K,
+                 from [01m[K/usr/include/c++/5/string:48[m[K,
+                 from [01m[K/opt/ros/kinetic/include/visualization_msgs/Marker.h:9[m[K,
+                 from [01m[K/home/yohei/rl_ws/src/bwi_common/bwi_moveit_utils/src/moveit_waypoint_service.cpp:2[m[K:
+[01m[K/usr/include/c++/5/backward/binders.h:143:11:[m[K [01;36m[Knote: [m[Kdeclared here
+     class binder2nd
+[01;32m[K           ^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:276:0[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:4[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/joint_model.h:47[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/joint_model_group.h:41[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/robot_model.h:47[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_state/robot_state.h:41[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/planning_scene_interface/planning_scene_interface.h:41[m[K,
+                 from [01m[K/home/yohei/rl_ws/src/bwi_common/bwi_moveit_utils/src/moveit_waypoint_service.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Functors.h:977:28:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class _Operation> class std::binder1st[m[K’ is deprecated [-Wdeprecated-declarations]
+ struct functor_traits<std::binder1st<T> >
+[01;32m[K                            ^[m[K
+In file included from [01m[K/usr/include/c++/5/bits/stl_function.h:1128:0[m[K,
+                 from [01m[K/usr/include/c++/5/string:48[m[K,
+                 from [01m[K/opt/ros/kinetic/include/visualization_msgs/Marker.h:9[m[K,
+                 from [01m[K/home/yohei/rl_ws/src/bwi_common/bwi_moveit_utils/src/moveit_waypoint_service.cpp:2[m[K:
+[01m[K/usr/include/c++/5/backward/binders.h:108:11:[m[K [01;36m[Knote: [m[Kdeclared here
+     class binder1st
+[01;32m[K           ^[m[K
+[ 82%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_moveit_utils/lib/bwi_moveit_utils/moveit_waypoint_service[0m
+[ 82%] Built target moveit_waypoint_service
+[35m[1mScanning dependencies of target moveit_cartesian_pose_service[0m
+[35m[1mScanning dependencies of target moveit_joint_pose_service[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/moveit_cartesian_pose_service.dir/src/moveit_cartesian_pose_service.cpp.o[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/moveit_joint_pose_service.dir/src/moveit_joint_pose_service.cpp.o[0m
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:276:0[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:4[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/joint_model.h:47[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/joint_model_group.h:41[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/robot_model.h:47[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_state/robot_state.h:41[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/planning_scene_interface/planning_scene_interface.h:41[m[K,
+                 from [01m[K/home/yohei/rl_ws/src/bwi_common/bwi_moveit_utils/src/moveit_cartesian_pose_service.cpp:5[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Functors.h:973:28:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class _Operation> class std::binder2nd[m[K’ is deprecated [-Wdeprecated-declarations]
+ struct functor_traits<std::binder2nd<T> >
+[01;32m[K                            ^[m[K
+In file included from [01m[K/usr/include/c++/5/bits/stl_function.h:1128:0[m[K,
+                 from [01m[K/usr/include/c++/5/string:48[m[K,
+                 from [01m[K/opt/ros/kinetic/include/visualization_msgs/Marker.h:9[m[K,
+                 from [01m[K/home/yohei/rl_ws/src/bwi_common/bwi_moveit_utils/src/moveit_cartesian_pose_service.cpp:2[m[K:
+[01m[K/usr/include/c++/5/backward/binders.h:143:11:[m[K [01;36m[Knote: [m[Kdeclared here
+     class binder2nd
+[01;32m[K           ^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:276:0[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:4[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/joint_model.h:47[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/joint_model_group.h:41[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/robot_model.h:47[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_state/robot_state.h:41[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/planning_scene_interface/planning_scene_interface.h:41[m[K,
+                 from [01m[K/home/yohei/rl_ws/src/bwi_common/bwi_moveit_utils/src/moveit_cartesian_pose_service.cpp:5[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Functors.h:977:28:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class _Operation> class std::binder1st[m[K’ is deprecated [-Wdeprecated-declarations]
+ struct functor_traits<std::binder1st<T> >
+[01;32m[K                            ^[m[K
+In file included from [01m[K/usr/include/c++/5/bits/stl_function.h:1128:0[m[K,
+                 from [01m[K/usr/include/c++/5/string:48[m[K,
+                 from [01m[K/opt/ros/kinetic/include/visualization_msgs/Marker.h:9[m[K,
+                 from [01m[K/home/yohei/rl_ws/src/bwi_common/bwi_moveit_utils/src/moveit_cartesian_pose_service.cpp:2[m[K:
+[01m[K/usr/include/c++/5/backward/binders.h:108:11:[m[K [01;36m[Knote: [m[Kdeclared here
+     class binder1st
+[01;32m[K           ^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:276:0[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:4[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/joint_model.h:47[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/joint_model_group.h:41[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/robot_model.h:47[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_state/robot_state.h:41[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/planning_scene_interface/planning_scene_interface.h:41[m[K,
+                 from [01m[K/home/yohei/rl_ws/src/bwi_common/bwi_moveit_utils/src/moveit_joint_pose_service.cpp:4[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Functors.h:973:28:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class _Operation> class std::binder2nd[m[K’ is deprecated [-Wdeprecated-declarations]
+ struct functor_traits<std::binder2nd<T> >
+[01;32m[K                            ^[m[K
+In file included from [01m[K/usr/include/c++/5/bits/stl_function.h:1128:0[m[K,
+                 from [01m[K/usr/include/c++/5/string:48[m[K,
+                 from [01m[K/opt/ros/kinetic/include/visualization_msgs/Marker.h:9[m[K,
+                 from [01m[K/home/yohei/rl_ws/src/bwi_common/bwi_moveit_utils/src/moveit_joint_pose_service.cpp:2[m[K:
+[01m[K/usr/include/c++/5/backward/binders.h:143:11:[m[K [01;36m[Knote: [m[Kdeclared here
+     class binder2nd
+[01;32m[K           ^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:276:0[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:4[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/joint_model.h:47[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/joint_model_group.h:41[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/robot_model.h:47[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_state/robot_state.h:41[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/planning_scene_interface/planning_scene_interface.h:41[m[K,
+                 from [01m[K/home/yohei/rl_ws/src/bwi_common/bwi_moveit_utils/src/moveit_joint_pose_service.cpp:4[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Functors.h:977:28:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class _Operation> class std::binder1st[m[K’ is deprecated [-Wdeprecated-declarations]
+ struct functor_traits<std::binder1st<T> >
+[01;32m[K                            ^[m[K
+In file included from [01m[K/usr/include/c++/5/bits/stl_function.h:1128:0[m[K,
+                 from [01m[K/usr/include/c++/5/string:48[m[K,
+                 from [01m[K/opt/ros/kinetic/include/visualization_msgs/Marker.h:9[m[K,
+                 from [01m[K/home/yohei/rl_ws/src/bwi_common/bwi_moveit_utils/src/moveit_joint_pose_service.cpp:2[m[K:
+[01m[K/usr/include/c++/5/backward/binders.h:108:11:[m[K [01;36m[Knote: [m[Kdeclared here
+     class binder1st
+[01;32m[K           ^[m[K
+[ 95%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_moveit_utils/lib/bwi_moveit_utils/moveit_cartesian_pose_service[0m
+[ 95%] Built target moveit_cartesian_pose_service
+[100%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/bwi_moveit_utils/lib/bwi_moveit_utils/moveit_joint_pose_service[0m
+[100%] Built target moveit_joint_pose_service

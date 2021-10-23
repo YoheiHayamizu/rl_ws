@@ -1,0 +1,5 @@
+Symlinking /home/yohei/rl_ws/devel/share/bwi_scavenger/cmake/bwi_scavengerConfig.cmake
+Symlinking /home/yohei/rl_ws/devel/share/bwi_scavenger/cmake/bwi_scavengerConfig-version.cmake
+Symlinking /home/yohei/rl_ws/devel/lib/pkgconfig/bwi_scavenger.pc
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_scavenger/scavenger
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_scavenger/draw_trajectory

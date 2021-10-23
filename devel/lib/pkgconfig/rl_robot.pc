@@ -1,0 +1,1 @@
+/home/yohei/rl_ws/devel/.private/rl_robot/lib/pkgconfig/rl_robot.pc

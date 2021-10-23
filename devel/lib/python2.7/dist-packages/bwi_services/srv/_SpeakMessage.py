@@ -1,0 +1,1 @@
+/home/yohei/rl_ws/devel/.private/bwi_services/lib/python2.7/dist-packages/bwi_services/srv/_SpeakMessage.py

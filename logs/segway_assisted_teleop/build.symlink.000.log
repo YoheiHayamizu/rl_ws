@@ -1,0 +1,4 @@
+Symlinking /home/yohei/rl_ws/devel/share/segway_assisted_teleop/cmake/segway_assisted_teleopConfig.cmake
+Symlinking /home/yohei/rl_ws/devel/share/segway_assisted_teleop/cmake/segway_assisted_teleopConfig-version.cmake
+Symlinking /home/yohei/rl_ws/devel/lib/segway_assisted_teleop/segway_assisted_teleop
+Symlinking /home/yohei/rl_ws/devel/lib/pkgconfig/segway_assisted_teleop.pc

@@ -1,0 +1,12 @@
+Symlinking /home/yohei/rl_ws/devel/share/bwi_mapper/cmake/bwi_mapperConfig.cmake
+Symlinking /home/yohei/rl_ws/devel/share/bwi_mapper/cmake/bwi_mapperConfig-version.cmake
+Symlinking /home/yohei/rl_ws/devel/lib/libbwi_mapper.so
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_mapper/prepare_graph
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_mapper/test_graph
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_mapper/generate_graph
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_mapper/view_graph
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_mapper/test_voronoi
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_mapper/test_map_loader
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_mapper/test_dfs
+Symlinking /home/yohei/rl_ws/devel/lib/bwi_mapper/test_circle
+Symlinking /home/yohei/rl_ws/devel/lib/pkgconfig/bwi_mapper.pc

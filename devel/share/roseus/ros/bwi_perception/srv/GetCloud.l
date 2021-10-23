@@ -1,0 +1,1 @@
+/home/yohei/rl_ws/devel/.private/bwi_perception/share/roseus/ros/bwi_perception/srv/GetCloud.l

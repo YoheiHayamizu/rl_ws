@@ -1,0 +1,8 @@
+prefix=/home/yohei/rl_ws/devel/.private/halloween_bwi
+
+Name: halloween_bwi
+Description: Description of halloween_bwi
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yohei/rl_ws/devel/.private/halloween_bwi/lib 
+Requires: 

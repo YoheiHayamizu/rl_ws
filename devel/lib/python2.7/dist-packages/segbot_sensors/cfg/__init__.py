@@ -1,0 +1,1 @@
+/home/yohei/rl_ws/devel/.private/segbot_sensors/lib/python2.7/dist-packages/segbot_sensors/cfg/__init__.py

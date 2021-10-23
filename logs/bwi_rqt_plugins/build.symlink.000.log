@@ -1,0 +1,4 @@
+Symlinking /home/yohei/rl_ws/devel/share/bwi_rqt_plugins/cmake/bwi_rqt_pluginsConfig.cmake
+Symlinking /home/yohei/rl_ws/devel/share/bwi_rqt_plugins/cmake/bwi_rqt_pluginsConfig-version.cmake
+Symlinking /home/yohei/rl_ws/devel/lib/python2.7/dist-packages/bwi_rqt_plugins/__init__.py
+Symlinking /home/yohei/rl_ws/devel/lib/pkgconfig/bwi_rqt_plugins.pc

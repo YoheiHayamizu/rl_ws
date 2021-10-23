@@ -1,0 +1,8 @@
+prefix=/home/yohei/rl_ws/install
+
+Name: bwi_perception
+Description: Description of bwi_perception
+Version: 0.0.1
+Cflags: -I/home/yohei/rl_ws/install/include
+Libs: -L/home/yohei/rl_ws/install/lib -lbwi_perception
+Requires: actionlib_msgs

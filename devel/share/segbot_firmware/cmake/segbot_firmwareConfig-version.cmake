@@ -1,0 +1,1 @@
+/home/yohei/rl_ws/devel/.private/segbot_firmware/share/segbot_firmware/cmake/segbot_firmwareConfig-version.cmake

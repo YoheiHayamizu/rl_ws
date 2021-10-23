@@ -1,0 +1,13 @@
+[  9%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/segbot_sensors/lib/segbot_sensors/battery_diagnostics[0m
+[ 18%] Built target battery_diagnostics
+[ 27%] [32m[1mLinking CXX executable /home/yohei/rl_ws/devel/.private/segbot_sensors/lib/segbot_sensors/fake_volt_pub[0m
+[ 36%] Built target fake_volt_pub
+[ 45%] Built target segbot_sensors_gencfg
+[35m[1mScanning dependencies of target range_to_cloud[0m
+[ 54%] [32mBuilding CXX object src/sonar/CMakeFiles/range_to_cloud.dir/range_to_cloud.cpp.o[0m
+[ 63%] [32m[1mLinking CXX shared library /home/yohei/rl_ws/devel/.private/segbot_sensors/lib/librange_to_cloud.so[0m
+[ 72%] Built target range_to_cloud
+[35m[1mScanning dependencies of target segbot_sensors_filters[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/segbot_sensors_filters.dir/src/segbot_velodyne_outlier_removal.cpp.o[0m
+[ 90%] [32m[1mLinking CXX shared library /home/yohei/rl_ws/devel/.private/segbot_sensors/lib/libsegbot_sensors_filters.so[0m
+[100%] Built target segbot_sensors_filters
